@@ -38,8 +38,8 @@ A lightweight PHP-based imageboard platform with modern features and clean desig
 ## Quick Start
 
 1. Clone the repository
-2. Configure database settings in `.env` (use `.env.example` as template)
-3. Run setup script: `./setup_database.sh`
+2. Configure database settings in `.env`
+3. Run setup script or just import mariadb database: `./setup_database.sh`
 4. Deploy: `./deploy.sh`
 
 ## Requirements
